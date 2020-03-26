@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 185,
+    "Username": "pmajecki",
+    "Name": "Piotr Sylwester Majecki",
+    "Email": "p.majecki@stud.elka.pw.edu.pl",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/464ce9bccc84b75079c2998093b8532c?s=80&d=identicon",
+    "PrivateToken": "ee5865c41c268efa9a68c130b5e7f092206455b77f1a2bb2a2d46f626d2d6593",
+    "Host": "https://gitlab-stud.elka.pw.edu.pl",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
